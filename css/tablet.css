@@ -1,6 +1,6 @@
-body {
+/* body {
   max-width: 100%;
-}
+} */
 
 .header {
   min-height: 390px;
@@ -13,12 +13,12 @@ body {
 }
 
 .header-container {
-  min-height: 390px;
-  padding: 0 35px;
+ /* min-height: 390px; */
+  padding: 40px 0 35px;
 }
 
 .top-menu {
-  padding: 40px 0 0;
+ /* padding: 40px 0 0; */
 }
 
 .burger {
@@ -84,6 +84,8 @@ h3.trends-title {
 
 .main {
   padding: 0 35px;
+  padding left: 15px;
+  padding right: 15px;
 }
 
 .wrapper {
